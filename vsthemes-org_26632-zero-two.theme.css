@@ -1,0 +1,27 @@
+/**
+ * @name Zero Two Pink
+ * @author Staxa_Brat
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/26632-zero-two.html
+ * @authorLink https://vsthemes.org/user/Staxa_Brat/
+ * @authorId 34757
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 26,15,18;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.1;
+    --guildchanneltransparency: 0.1;
+    --memberlistransparency: 0;
+    --accentcolor: 255,192,203;
+    --background: url("https://vsthemes.org/uploads/posts/2021-02/1613289446_art-anime-darling-in-the-frankxx-milyi-vo-frankse-devushk-29.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
